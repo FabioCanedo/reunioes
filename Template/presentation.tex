@@ -1,0 +1,58 @@
+\documentclass{beamer}
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{calc}
+\usepackage[absolute,overlay]{textpos}
+%\mode<presentation>{\usetheme{tud}}
+
+%\title[JEWEL]{JEWEL}
+%\subtitle
+%\institute[HEPIC-Instituto de Física]{HEPIC-Instituto de Física}
+%\author{Fabio Canedo}
+%\date{\today}
+
+% Insert frame before each subsection (requires 2 latex runs)
+%\AtBeginSubsection[] {
+%	\begin{frame}<beamer>\frametitle{\titleSubsec}
+%		\tableofcontents[currentsection,currentsubsection]  % Generation of the Table of Contents
+%	\end{frame}
+%}
+% Define the title of each inserted pre-subsection frame
+\newcommand*\titleSubsec{Content}
+% Define the title of the "Table of Contents" frame
+\newcommand*\titleTOC{Content}
+
+% define a symbol which can be removed if you don't need it
+\newcommand{\field}[1]{\mathbb{#1}}
+\newcommand{\Zset}{\field{Z}}
+
+\begin{document}
+
+{
+% remove the next line if you don't want a background image
+%\usebackgroundtemplate{}%
+%\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}
+%\frame{\titlepage}
+}
+
+{%\setbeamertemplate{footline}{\usebeamertemplate*{minimal footline}}
+\begin{frame}\frametitle{}
+	\begin{equation*}
+      \nabla \cdot \overrightarrow{E} = \frac{\rho}{\epsilon_0}
+    \end{equation*}
+    \begin{equation*}
+      \nabla \times \overrightarrow{B} = - \frac{\partial \overrightarrow{E}}{\partial t}
+	\end{equation*}
+	\begin{equation*}
+	  \nabla \cdot \overrightarrow{B} = 0
+	\end{equation*}
+	\begin{equation*}
+	  \nabla \times \overrightarrow{E} = \mu_0 \overrightarrow{j} + \frac{1}{c^{2}} \frac{\partial \overrightarrow{B}}{\partial t}
+	\end{equation*}
+\end{frame}
+}
+
+
+
+
+\end{document}

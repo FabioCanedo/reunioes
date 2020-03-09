@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazilian}
+\beamer@sectionintoc {1}{First Remarks}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{About the cross-section}{3}{0}{1}
+\beamer@sectionintoc {2}{Background Subtraction}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{4-Momentum}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Grid Sub 1}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Grid Sub 2}{12}{0}{2}
+\beamer@sectionintoc {3}{Preliminary Results}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Jet shape}{14}{0}{3}
+\beamer@subsectionintoc {3}{2}{Jet mass}{17}{0}{3}
+\beamer@subsectionintoc {3}{3}{Pseudorapidity Distribution of $+/-$ ratio}{20}{0}{3}

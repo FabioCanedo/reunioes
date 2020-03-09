@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazilian}
+\beamer@sectionintoc {1}{Quick Review}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is JEWEL?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Event Generation}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Physics of JEWEL}{11}{0}{1}
+\beamer@sectionintoc {2}{Medium Model}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Initial Conditions}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Medium Evolution}{22}{0}{2}
+\beamer@sectionintoc {3}{Jet Observables}{25}{0}{3}
+\beamer@subsectionintoc {3}{1}{JetAlgorithms}{25}{0}{3}
+\beamer@subsectionintoc {3}{2}{SoftDrop Procedure}{31}{0}{3}
+\beamer@sectionintoc {4}{JEWEL Results}{37}{0}{4}
+\beamer@subsectionintoc {4}{1}{JEWEL Validation}{37}{0}{4}
+\beamer@sectionintoc {5}{What to do with JEWEL?}{42}{0}{5}
+\beamer@subsectionintoc {5}{1}{What to do with JEWEL?}{42}{0}{5}

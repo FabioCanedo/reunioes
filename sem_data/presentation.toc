@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazilian}
+\beamer@sectionintoc {1}{Quick Review}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Something to think here}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Observables chosen}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Physics of JEWEL}{12}{0}{1}
+\beamer@sectionintoc {2}{Medium Model}{18}{0}{2}
+\beamer@subsectionintoc {2}{1}{Initial Conditions}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Medium Evolution}{24}{0}{2}
+\beamer@sectionintoc {3}{Jet Observables}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{JetAlgorithms}{27}{0}{3}
+\beamer@subsectionintoc {3}{2}{SoftDrop Procedure}{33}{0}{3}
+\beamer@subsectionintoc {3}{3}{Angularity}{39}{0}{3}
+\beamer@subsectionintoc {3}{4}{$p^T_{D}$}{41}{0}{3}
+\beamer@subsectionintoc {3}{5}{$x_J$}{43}{0}{3}
+\beamer@subsectionintoc {3}{6}{Jet $v_2$}{45}{0}{3}
+\beamer@sectionintoc {4}{Preliminary JEWEL Results}{47}{0}{4}
+\beamer@subsectionintoc {4}{1}{Preliminary JEWEL results of the current work}{47}{0}{4}
